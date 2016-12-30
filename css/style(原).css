@@ -112,9 +112,7 @@ button::-moz-focus-inner {
 body {
   background: #fff;
   color: #4f5759;
-  font-size: 16px;
-  font-family: 'Open Sans', 'Helvetica Neue', 'PingFang SC', sans-serif;
-  font-weight: 400;
+  font: 100% 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   text-rendering: optimizelegibility;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
