@@ -189,7 +189,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color: #222;
+  color: #ccccff;
   text-decoration: none;
 }
 h1 a:hover,
@@ -198,7 +198,7 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-  color: #222;
+  color: #9999ff;
 }
 h5 a {
   color: #33a6b8;
@@ -412,14 +412,14 @@ pre .deletion {
   color: #ccc;
 }
 .blog-title:hover a {
-  color: #33a6b8;
+  color: #9999ff;
 }
 .blog-title a {
   font-size: 130%;
   text-transform: uppercase;
   position: relative;
   padding: 0.4em 0;
-  color: #ccc;
+  color: #ccccff;
 }
 .blog-title span {
   font-size: 80%;
