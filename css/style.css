@@ -121,7 +121,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 a {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
   text-decoration: none;
 }
 a:hover {
@@ -238,10 +238,10 @@ code {
   font-size: 100%;
 }
 .entry-content .gist .gist-file .gist-meta a {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
 }
 .entry-content .gist .gist-file .gist-meta a:visited {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
 }
 figure.highlight {
   background: color-code;
@@ -384,10 +384,10 @@ pre .deletion {
   margin: 10px 0;
 }
 .blog-title:hover {
-  border-color: rgba(9,9,1,0.39);
+  border-color: #828282;
 }
 .blog-title:hover a {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
 }
 .blog-title a {
   font-size: 130%;
@@ -450,7 +450,7 @@ pre .deletion {
   color: #cecccc;
 }
 .nav a:hover {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
 }
 .nav-icon {
   font-family: FontAwesome;
@@ -553,7 +553,7 @@ pre .deletion {
 }
 .post .entry-title {
   font-weight: bold;
-  font-size: 220%;
+  font-size: 110%;
   margin: 0;
 }
 .article-devider {
@@ -573,7 +573,7 @@ pre .deletion {
   color: #4f5759;
 }
 .entry-meta-header a:hover {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
 }
 .entry-meta-header .meta-elements {
   display: block;
@@ -587,7 +587,7 @@ pre .deletion {
   color: #222;
 }
 .entry-meta-header .date a:hover {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
 }
 .entry-meta-header .commentscount {
   font-size: 90%;
@@ -777,7 +777,7 @@ pre .deletion {
   color: #777;
 }
 .entry-meta-footer a:hover {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
 }
 .entry-meta-footer li {
   list-style-type: none;
@@ -997,10 +997,10 @@ pre .deletion {
   color: #777;
 }
 #footer .footer-blog-title:hover {
-  border-color: rgba(9,9,1,0.39);
+  border-color: #828282;
 }
 #footer .footer-blog-title:hover a {
-  color: rgba(9,9,1,0.39);
+  color: #828282;
 }
 #footer .copyright {
   display: block;
